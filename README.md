@@ -22,7 +22,5 @@ Ie-Poma adalah sebuah sistem inovatif yang dirancang untuk memanfaatkan air limb
 * Selang dan Pipa
 * Sensor Ultrasonic
 
-*(Anda bisa menyesuaikan daftar ini sesuai dengan komponen yang benar-benar Anda gunakan)*
-
 ## Bahasa Pemrograman
 * C++ (Arduino IDE)
